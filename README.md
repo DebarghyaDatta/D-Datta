@@ -1,6 +1,6 @@
 ### Hi there, I'm Debarghya Datta - aka [Ujan] 👋
 
-## I'm a 2nd year student of IEM and also a learner, developer(python,app,web,loading...) and a hustler!!
+## I'm a 2nd year student of IEM and also a learner, developer(python,app,web, more yet to come 😉) and a hustler!!
 
 - 🔭
 - 🌱 I’m currently trying to explore everything 🤣

@@ -2,7 +2,7 @@
 
 ## I'm a 2nd year student of IEM and also a learner, developer(python,app,web, more yet to come 😉) and a hustler!!
 
-- 🔭
+- 🔭Favourite language: Python!
 - 🌱 I’m currently trying to explore everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects

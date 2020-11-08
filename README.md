@@ -2,22 +2,18 @@
 
 ## ▶ Current stats:I am a python script development and video editing intern at [EssentiallySports](https://essentiallysports.com/). ◀
 
-=======
-
 ## I'm a 2nd year student of IEM and also a learner, developer(python,app,web, more yet to come 😉) and a hustler!!
 
 - 🔭Favourite language: Python!
 - 🌱 I’m currently trying to explore everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love drawing, listening to music, working out and travelling.
-
-  > > > > > > > 76188ecc4e0f27b1b760d4f40bb82a6ff6adbe83
+- ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
 
 - 🔭 I’m currently working exploring multiple frameworks and development domains.
 - 🚀 I’m looking forward to collaborate with other developers.
 - 🥅 2020 Goals: Contribute to Open Source projects.
-- ⚡Facts about me: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
+- ⚡Facts about me: Amateur developer[Web,App,Python, more to come..]
 
 ---
 
@@ -88,15 +84,15 @@
 
 <!-- stats A++ -->
 
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=DebarghyaDatta&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats-DebarghyaDatta.vercel.app/api?username=DebarghyaDatta&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 
 <!--NEW top lang
 <a href="https://github.com/DebarghyaDatta/DebarghyaDatta">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-DebarghyaDatta.vercel.app/api/top-langs/?username=DebarghyaDatta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>-->
 
 <!--<a href="https://gitstats.me/DebarghyaDatta">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
+  <img align="center" src="https://github-readme-stats-DebarghyaDatta.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>
 -->
 
@@ -104,10 +100,7 @@
 
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DebarghyaDatta)
-
-<!--<img align="left" src="https://wakatime.com/share/@DebarghyaDatta/a546c838-8700-4647-82cc-20c9d5b32e4f.svg" height="300">
-<img  src="https://wakatime.com/share/@DebarghyaDatta/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
 
   <hr>
 
@@ -131,9 +124,6 @@
 
 <div align="center">
  <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
-<a href="https://open.spotify.com/playlist/">
-<img src="/images.jpg" >
-</a>
 </div>
   </td>
   </table>

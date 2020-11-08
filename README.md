@@ -144,7 +144,6 @@
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<<<<<<< HEAD
 <a href="https://instagram.com/" target="_blank" >
 <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>  
@@ -155,9 +154,6 @@
    <a href="https://codepen.com/" target="_blank" style="text-decoration:none;">
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-=======
-  <img align="left" alt="Debarghya's's GitHub Stats" src="https://github-readme-stats.debarghyadatta.vercel.app/api?username=DebarghyaDatta&show_icons=true&hide_border=true" />
->>>>>>> 76188ecc4e0f27b1b760d4f40bb82a6ff6adbe83
 
   <a href="https://medium.com/@" target="_blank">
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />

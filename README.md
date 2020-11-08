@@ -1,4 +1,5 @@
-## I'm a second year Computer Science and Engineering student at IEM, Kolkata, and I'm currently trying to learn something about everything.
+## I'm a second year Computer Science and Engineering student at IEM, Kolkata.
+## I'm currently trying to learn something about everything.😉
 
 ## ▶ Current stats:I am a python script development and video editing intern at [EssentiallySports](https://essentiallysports.com/). ◀
 
@@ -9,10 +10,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
-
 - 🔭 I’m currently working exploring multiple frameworks and development domains.
-- 🚀 I’m looking forward to collaborate with other developers.
-- 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡Facts about me: Amateur developer[Web,App,Python, more to come..]
 
 ---

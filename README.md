@@ -95,12 +95,11 @@
   <img align="center" src="https://github-readme-stats-DebarghyaDatta.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>
 -->
-
 <br>
 
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
+[![Debarghya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
 
   <hr>
 

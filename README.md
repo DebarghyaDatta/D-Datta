@@ -115,7 +115,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://DebarghyaDatta.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
+&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
   <td width="50%">
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-<a href="https://twitter.com/" target="_blank" >
+  <a href="https://twitter.com/" target="_blank" >
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
   <a href="https://www.linkedin.com/in/debarghya-datta-383b341a5/" target="_blank" >

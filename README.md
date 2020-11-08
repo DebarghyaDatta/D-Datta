@@ -100,10 +100,11 @@
 
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta)
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta00&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
-<br>
-<figure><embed src="https://wakatime.com/share/@DDatta/2188f469-d955-478a-8d68-964909e7e99c.svg"></embed></figure>
-<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
+
+
+<!--<img align="left" src=""https://wakatime.com/share/@DDatta/cc203f64-d7b2-4897-8b9b-042a4ef854b7.svg">" height="300">
+<img  src="https://wakatime.com/share/@DDatta/cc203f64-d7b2-4897-8b9b-042a4ef854b7.svg" height="300">-->
  
 
   <hr>

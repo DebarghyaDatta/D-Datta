@@ -84,7 +84,7 @@
 
 <!-- stats A++ -->
 
-<img src="https://github-readme-stats-DebarghyaDatta.vercel.app/api?username=DebarghyaDatta&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
+
 
 <!--NEW top lang
 <a href="https://github.com/DebarghyaDatta/DebarghyaDatta">
@@ -92,7 +92,7 @@
 </a>-->
 
 <!--<a href="https://gitstats.me/DebarghyaDatta">
-  <img align="center" src="https://github-readme-stats-DebarghyaDatta.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
+  <img align="center" src="https://github-readme-stats-debarghyadatta.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>
 -->
 <br>
@@ -114,7 +114,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
+&nbsp; <br> [![Spotify](https://debarghyadatta.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
   <td width="50%">
@@ -122,7 +122,7 @@
 <br>
 
 <div align="center">
- <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
+<h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
 </div>
   </td>
   </table>

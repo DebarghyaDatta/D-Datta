@@ -1,5 +1,5 @@
 ## ▶I'm a second year Computer Science and Engineering student at IEM, Kolkata.◀
-## ▶I'm currently trying to learn something about everything.😉◀◀
+## ▶I'm currently trying to learn something about everything.😉◀
 
 ## ▶ Current stats:I am a python script development and video editing intern at [EssentiallySports](https://essentiallysports.com/). ◀
 

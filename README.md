@@ -98,13 +98,10 @@
 
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta)
 
-```md
-[![Debarghya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DDatta)](https://github.com/anuraghazra/github-readme-stats)
-```
 
-```md
-![Debarghya's github stats](https://github-readme-stats.vercel.app/api?username=DebarghyaDatta&count_private=true)
-```
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
+
+
 
 
 <!--<img align="left" src="https://wakatime.com/share/@DDatta/db313151-813d-4813-a71e-e12e53e63bf9.svg"> height="300">

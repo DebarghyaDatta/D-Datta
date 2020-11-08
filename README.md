@@ -100,7 +100,7 @@
 
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta)
 
-[![Debarghya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
+[![Debarghya's wakatime stats]<figure><embed src="https://wakatime.com/share/@DDatta/2188f469-d955-478a-8d68-964909e7e99c.svg"></embed></figure>
 
   <hr>
 

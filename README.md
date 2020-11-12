@@ -105,7 +105,7 @@
 
 
 <!--<img align="left" src="https://wakatime.com/share/@DDatta/db313151-813d-4813-a71e-e12e53e63bf9.svg"> height="300">
-<figure><embed src="https://wakatime.com/share/@DDatta/a8929be4-8eca-4c53-ba03-a00b2a3e022c.svg"></embed></figure>
+<img src="https://wakatime.com/share/@DDatta/a8929be4-8eca-4c53-ba03-a00b2a3e022c.svg" height="300">-->
 <img  src="https://wakatime.com/share/@DDatta/cc203f64-d7b2-4897-8b9b-042a4ef854b7.svg" height="300">-->
  
 

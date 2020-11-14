@@ -130,8 +130,7 @@
 <br>
 
 <div align="center">
- <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
-<img src="/images.jpg" >
+ 
 </a>
 </div>
   </td>

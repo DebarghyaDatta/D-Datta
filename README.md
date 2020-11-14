@@ -116,6 +116,7 @@
 <h1> <b>  <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px">  My Spotify Updates 
   <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px"> </b> </h1>
  </div>
+ <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> </b> </h3>
 <br>
 
  <table width="100%"> 

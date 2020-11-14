@@ -116,13 +116,28 @@
 <h1> <b>  <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px">  My Spotify Updates 
   <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px"> </b> </h1>
  </div>
- <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> </b> </h3>
 <br>
 
  <table width="100%"> 
-&nbsp; <br> 
-[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
-<td width="50%">
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
+
+  </td>
+  <td width="50%">
+
+<br>
+
+<div align="center">
+ <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
+<a href="https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ">
+<img src="/images.jpg" >
+</a>
+</div>
+  </td>
+  </table>
+
 
 <br>
 

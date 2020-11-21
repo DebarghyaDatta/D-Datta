@@ -125,15 +125,7 @@
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
-  <td width="100%">
-
-<br>
-
-<div align="center">
- 
-</a>
-</div>
-  </td>
+  
   </table>
 
 

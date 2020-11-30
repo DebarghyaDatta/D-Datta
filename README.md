@@ -106,7 +106,7 @@
 
 <!--<img align="left" src="https://wakatime.com/share/@DDatta/db313151-813d-4813-a71e-e12e53e63bf9.svg"> height="300">
 <img src="https://wakatime.com/share/@DDatta/a8929be4-8eca-4c53-ba03-a00b2a3e022c.svg" height="300">-->
-<img  src="https://wakatime.com/share/@DDatta/1e39a95f-81a9-499f-95d1-daf3c8f33db5.svg" height="300">-->
+<img  src="https://wakatime.com/share/@DDatta/1e39a95f-81a9-499f-95d1-daf3c8f33db5.svg" height="300">
  
 
   <hr>

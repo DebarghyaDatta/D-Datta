@@ -87,7 +87,7 @@
 
 <!--NEW top lang
 <a href="https://github.com/DebarghyaDatta/DebarghyaDatta">
-  <img align="center" src="https://github-readme-stats-D-Datta.vercel.app/api/top-langs/?username=DebarghyaDatta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-D-Datta.vercel.app/api/top-langs/?username=D-Datta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>-->
 
 <!--<a href="https://gitstats.me/D-Datta">
@@ -96,7 +96,7 @@
 -->
 <br>
 
-[![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta)
+[![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=D-Datta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/D-Datta)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)

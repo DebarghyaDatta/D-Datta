@@ -87,10 +87,10 @@
 
 <!--NEW top lang
 <a href="https://github.com/DebarghyaDatta/DebarghyaDatta">
-  <img align="center" src="https://github-readme-stats-DebarghyaDatta.vercel.app/api/top-langs/?username=DebarghyaDatta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-D-Datta.vercel.app/api/top-langs/?username=DebarghyaDatta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>-->
 
-<!--<a href="https://gitstats.me/DebarghyaDatta">
+<!--<a href="https://gitstats.me/D-Datta">
   <img align="center" src="https://github-readme-stats-debarghyadatta.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>
 -->

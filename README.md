@@ -109,8 +109,7 @@
 <img  src="https://wakatime.com/share/@DDatta/1e39a95f-81a9-499f-95d1-daf3c8f33db5.svg" height="300">
  
 
-  <hr>
-  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Datta&count_private=true&theme=radical" alt="D-Datta" />
+ 
   <hr>
 
 <div align="center">

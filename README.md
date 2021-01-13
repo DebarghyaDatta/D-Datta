@@ -15,6 +15,11 @@
 
 ---
 
+
+<img align="right" alt="GIF" img height="300" src="programer.gif" />
+<hr>
+
+
 <div align="center">
 <a href=""> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" target="_blank"></a>
 </div>

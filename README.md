@@ -8,7 +8,7 @@
 - 🔭Favourite language: Python!
 - 🌱 I’m currently trying to explore everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn App development and data structures.
 - ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
 - 🔭 I’m currently working exploring multiple frameworks and development domains.
 - ⚡Facts about me: Amateur developer[Web,App,Python, more to come..]

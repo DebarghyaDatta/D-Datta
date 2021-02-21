@@ -142,12 +142,12 @@
 
  <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td>
 
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
-  <td width="50%">
+  
 
 <br>
 

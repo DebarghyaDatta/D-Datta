@@ -116,63 +116,57 @@
 
 <br>
 
- [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00) 
+ [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta) 
 
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
 
 
-<!--[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react&show_owner=true )](https://github.com/proghead00/Ultimate-JS-Projects-Collection)-->
-
-<!--[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&theme=react&show_owner=true )](https://github.com/proghead00/Aiden-AI-News-App)-->
 
 
 
 
 <!--<img align="left" src="https://wakatime.com/share/@DDatta/a546c838-8700-4647-82cc-20c9d5b32e4f.svg" height="300">
 <img  src="https://wakatime.com/share/@DDatta/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
-
-
-
-
-
+<hr>
   <hr>
-
 
 <div align="center">
 
 <h1> <b>  <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px">  My Spotify Updates 
   <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px"> </b> </h1>
-   <table width="100%"> 
+ </div>
+<br>
+
+ <table width="100%"> 
   <tr>
-  <td >
+  <td width="50%">
 
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
- </div>
-
-
-
+  <td width="50%">
 
 <br>
 
+<div align="center">
+ <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
+</div>
+  </td>
+  </table>
 
-
-
-
- 
- 
 <br>
-## Connect with me  
+
+## Connect with me
+
 <div align="center">
 
   <a href="https://twitter.com/" target="_blank" >
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
-  <a href="https://www.linkedin.com/in//" target="_blank" >
+  <a href="https://www.linkedin.com/in/debarghya-datta-383b341a5/" target="_blank" >
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
   <a href="https://www.facebook.com/" target="_blank">
@@ -180,21 +174,17 @@
 </a>
 
 <a href="https://instagram.com/" target="_blank" >
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>                                                                                    
-  <a href="https://dev.to/" target="_blank" >
-  <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+<img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>  
+ <a href="https://dev.to/" target="_blank" >
+<img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
- 
+
    <a href="https://codepen.com/" target="_blank" style="text-decoration:none;">
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
- 
-
 
   <a href="https://medium.com/@" target="_blank">
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-</div> 
-
-
+</div>

@@ -2,7 +2,7 @@
 
 
 
-[![Website](https://)
+[![Website]( https://elated-tereshkova-35075b.netlify.app/)
 
 ## I'm a second year Computer Science and Engineering student at IEM, Kolkata, and I'm currently trying to learn something about everything 😉 .
 

@@ -145,16 +145,17 @@
 
 <h1> <b>  <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px">  My Spotify Updates 
   <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px"> </b> </h1>
- </div>
-
-
- <table width="100%"> 
+   <table width="100%"> 
   <tr>
   <td >
 
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
+ </div>
+
+
+
 
 <br>
 

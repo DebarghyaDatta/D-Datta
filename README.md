@@ -1,21 +1,21 @@
-## ▶I'm a second year Computer Science and Engineering student at IEM, Kolkata.◀
-## ▶I'm currently trying to learn something about everything.😉◀
+## I'm a second year Computer Science and Engineering student at IEM, Kolkata, and I'm currently trying to learn something about everything.
 
-## ▶ Current stats:I am a currently learning DSA. ◀
+## ▶ Current stats:I am a python script development and video editing intern at [EssentiallySports](https://essentiallysports.com/). ◀
 
 ## I'm a 2nd year student of IEM and also a learner, developer(python,app,web, more yet to come 😉) and a hustler!!
 
 - 🔭Favourite language: Python!
 - 🌱 I’m currently trying to explore everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Learn App development and data structures.
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
+
 - 🔭 I’m currently working exploring multiple frameworks and development domains.
+- 🚀 I’m looking forward to collaborate with other developers.
+- 🥅 2020 Goals: Contribute to Open Source projects.
 - ⚡Facts about me: Amateur developer[Web,App,Python, more to come..]
 
 ---
-
-<hr>
 
 <div align="center">
 <a href=""> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" target="_blank"></a>
@@ -78,14 +78,13 @@
 
 <br/>
 
-<h1> <b> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"> Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
-
+<h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
 
 <br />
 
 <!-- stats A++ -->
 
-
+<img src="https://github-readme-stats-DebarghyaDatta.vercel.app/api?username=DebarghyaDatta&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 
 <!--NEW top lang
 <a href="https://github.com/DebarghyaDatta/DebarghyaDatta">
@@ -93,25 +92,15 @@
 </a>-->
 
 <!--<a href="https://gitstats.me/DebarghyaDatta">
-  <img align="center" src="https://github-readme-stats-debarghyadatta.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
+  <img align="center" src="https://github-readme-stats-DebarghyaDatta.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>
 -->
 <br>
 
-[![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/D-Datta)
+[![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta)
 
+[![Debarghya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
-
-
-
-
-<!--<img align="left" src="https://wakatime.com/share/@DDatta/db313151-813d-4813-a71e-e12e53e63bf9.svg"> height="300">
-<img src="https://wakatime.com/share/@DDatta/a8929be4-8eca-4c53-ba03-a00b2a3e022c.svg" height="300">-->
-<img  src="https://wakatime.com/share/@DDatta/1e39a95f-81a9-499f-95d1-daf3c8f33db5.svg" height="300">
- 
-
- 
   <hr>
 
 <div align="center">
@@ -123,19 +112,17 @@
 
  <table width="100%"> 
   <tr>
-  <td width="100%">
+  <td width="50%">
 
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
-  
-  </table>
-
+  <td width="50%">
 
 <br>
 
 <div align="center">
-
+ <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
 </div>
   </td>
   </table>

@@ -1,8 +1,8 @@
-<img src="github header.jpg">
 
 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsusnatagoswami.netlify.app/)](https://susnatagoswami.netlify.app/)
+
+[![Website](https://)
 
 ## I'm a second year Computer Science and Engineering student at IEM, Kolkata, and I'm currently trying to learn something about everything 😉 .
 
@@ -150,23 +150,14 @@
 
  <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td >
 
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31d5zdog7xqzi5yfop32psa3infa)
 
   </td>
-  <td width="50%">
 
 <br>
 
-<div align="center">
- <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
-</div>
-  </td>
-  </table>
-
-
-<br>
 
 
 

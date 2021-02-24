@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
 - 🔭 I’m currently working exploring multiple frameworks and development domains.
 - 🚀 Eat, Workout, Sleep, Learn, Code, Repeat.
-- ⚡Facts about me: Still learning and developing[Web,App,Python, more to come..]
+- ⚡Facts about me: Still learning and developing [Web,App,Python, more to come..]
 
 
 ---

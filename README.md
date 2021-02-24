@@ -11,8 +11,8 @@
 - 🥅 2021 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
 - 🔭 I’m currently working exploring multiple frameworks and development domains.
-- 🚀 I’m looking forward to collaborate with other developers.
-- ⚡Facts about me: Amateur developer[Web,App,Python, more to come..]
+- 🚀 Eat, Workout, Sleep, Learn, Code, Repeat.
+- ⚡Facts about me: Still learning and developing[Web,App,Python, more to come..]
 
 
 ---

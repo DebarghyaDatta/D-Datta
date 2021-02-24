@@ -118,7 +118,7 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DebarghyaDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
 
 
 

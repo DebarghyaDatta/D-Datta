@@ -6,14 +6,14 @@
 
 ## ▶ I am currently learning DSA. ◀
 
-- 🔭Favourite language: Python!
-- 🌱 I’m currently trying to explore everything 😊.
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects.
-- ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
-- 🔭 I’m currently working exploring multiple frameworks and development domains.
-- 🚀 Eat, Workout, Sleep, Learn, Code, Repeat.
-- ⚡Facts about me: Still learning and developing [Web,App,Python, more to come..]
+## - 🔭Favourite language: Python!
+## - 🌱 I’m currently trying to explore everything 😊.
+## - 👯 I’m looking to collaborate with other developers
+## - 🥅 2021 Goals: Contribute to Open Source projects.
+## - ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Art lover; Movie buff; Fitness freak; Cynophilist.
+## - 🔭 I’m currently working exploring multiple frameworks and development domains.
+## - 🚀 Eat, Workout, Sleep, Learn, Code, Repeat.
+## - ⚡Facts about me: Still learning and developing [Web,App,Python, more to come..]
 
 
 ---

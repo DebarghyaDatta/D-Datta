@@ -96,16 +96,16 @@
 <!-- stats A++ -->
 
 
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=DebarghyaDatta&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=geekHead-DD&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 
 <!--NEW top lang
-<a href="https://github.com/DebarghyaDatta/DebarghyaDatta">
+<a href="https://github.com/geekHead-DD/geekHead-DD">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>-->
 
 
-<!--<a href="https://gitstats.me/DebarghyaDatta">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
+<!--<a href="https://gitstats.me/geekHead-DD">
+  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=geekHead-DD&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>
 -->
 
@@ -114,7 +114,7 @@
 
 <br>
 
- [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=DebarghyaDatta&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta) 
+ [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=geekHead-DD&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta) 
 
 
 

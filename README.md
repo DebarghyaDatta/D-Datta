@@ -1,7 +1,7 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsusnatagoswami.netlify.app/)](https://personal-site-dd.netlify.app)
 
-## I'm a second year Computer Science and Engineering student at IEM, Kolkata.
+## I'm a third year Computer Science and Engineering student at IEM, Kolkata.
 ## I'm currently trying to learn something about everything 😉.
 
 ## ▶ I am currently learning DSA. ◀

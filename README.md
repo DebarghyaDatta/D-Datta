@@ -4,7 +4,7 @@
 ## I'm a third year Computer Science and Engineering student at IEM, Kolkata.
 ## I'm currently trying to learn something about everything 😉.
 
-## ▶ I am currently learning DSA. ◀
+## ▶ Currently diving into ML ◀
 
 - 🔭Favourite language: Python!
 - 🌱 I’m currently trying to explore everything 😊.

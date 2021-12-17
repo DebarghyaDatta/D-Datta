@@ -6,7 +6,7 @@
 
 ## ▶ Currently diving into DSA ◀
 
-- 🔭Favourite language: Python!
+- 🔭Favourite language: JavaScript!
 - 🌱 I’m currently trying to explore everything 😊.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects.

@@ -134,10 +134,10 @@
 
 <div align="center">
 
-<h1> <b>  <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px">  My Spotify Updates 
+<!-- <h1> <b>  <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px">  My Spotify Updates 
   <img src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" width="50px" height="50px"> </b> </h1>
  </div>
-<br>
+<br> -->
 
 <!--  <table width="100%"> 
   <tr>

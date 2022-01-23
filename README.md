@@ -26,6 +26,7 @@
 ---
  ## 🛠️ Skills
 
+
 ### Languages
 
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
@@ -84,7 +85,7 @@
 
 
 
-
+<div align="center">
 
 <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
  
@@ -115,6 +116,7 @@
 
 <br>
 
+  
  [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=geekHead-DD&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/DebarghyaDatta) 
 
 
@@ -123,7 +125,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
 
 
-
+</div>
 
 
 

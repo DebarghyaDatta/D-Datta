@@ -25,7 +25,9 @@
 <br />
 
 ---
- ## 🛠️ Skills
+<div align="center">
+  
+## 🛠️ Skills
 
 
 ### Languages
@@ -76,7 +78,7 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
+</div>
 
 <br/>  
 

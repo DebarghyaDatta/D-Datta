@@ -3,8 +3,6 @@
 
 ## 🚀 About Me
   I'm a third year Computer Science and Engineering student at IEM, Kolkata.
-  <br>
-  I'm inquisitive and I prefer to know something about everything 😉.
 
 ## ▶ Currently diving into DSA ◀
 

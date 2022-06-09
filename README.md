@@ -9,10 +9,8 @@
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org)
 
 ## 🚀 About Me
-  I'm a final year Computer Science and Engineering student at IEM, Kolkata.
 
-## ▶ Currently diving into DSA ◀
-
+- 🙋‍♂️ I'm a final year Computer Science and Engineering student at IEM, Kolkata.
 - 🔭 I’m currently working on [Airbnb 2.0](https://github.com/geekHead-DD/Airbnb_2.0)
 - 🌱 I’m currently learning **Web 3.0**
 - 👨‍💻 All of my projects are available at [Portfolio](https://personal-site-dd.netlify.app/)

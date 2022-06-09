@@ -1,19 +1,20 @@
+<h1 align="center">Hi 👋, I'm Debarghya Datta</h1>
+<h3 align="center">A digital gypsy</h3>
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsusnatagoswami.netlify.app/)](https://personal-site-dd.netlify.app)
+[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org)
 
 ## 🚀 About Me
-  I'm a third year Computer Science and Engineering student at IEM, Kolkata.
+  I'm a final year Computer Science and Engineering student at IEM, Kolkata.
 
 ## ▶ Currently diving into DSA ◀
 
-- 🔭Favourite language: JavaScript!
-- 🌱 I’m currently trying to explore everything 😊.
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Explore Blockchain.
-- ⚡ Fun fact: Melophile; Cynophilist; Hodophile; Aesthete; Cinephile; Fitness freak.
-- 🔭 I’m currently working exploring multiple frameworks and development domains.
+- 🔭 I’m currently working on [Airbnb 2.0](https://github.com/geekHead-DD/Airbnb_2.0)
+- 🌱 I’m currently learning **Web 3.0**
+- 👨‍💻 All of my projects are available at [Portfolio](https://personal-site-dd.netlify.app/)
+- 🥅 2022 Goals: Explore Web 3.0.
+- 💬 Ask me about **Web development**
 - 🚀 Eat, Workout, Sleep, Learn, Code, Repeat.
-- ⚡Facts about me: Still learning and developing [Web,App,Python, more to come..]
+- ⚡ Fun fact: **I use sarcasm as a defense mechanism**
 
 
 ---
@@ -33,7 +34,7 @@
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+<!-- ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) -->
 
 ### Front-End Development
 
@@ -42,12 +43,8 @@
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-<!-- ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) -->
 ![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!-- ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![graphql](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) -->
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -60,10 +57,14 @@
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
  -->
-### Cross Platform Development
+ 
+<!-- ### Cross Platform Development
 
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-<!-- ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white) -->
+![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white) -->
+### Backend Development
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Backend as a Service (BaaS)
 
@@ -71,6 +72,13 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Database
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Devops
+![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Design Tools
 
@@ -123,7 +131,7 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DDatta&theme=chartreuse-dark)](https://wakatime.com/@DDatta)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DDatta&theme=blue-green)](https://wakatime.com/@DDatta)
 
 
 </div>
@@ -157,10 +165,15 @@
 
 <br>
 
+## Coding profiles
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/geekDD/)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/geekDD)
+
 ## Connect with me
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https:/)
+
 <!-- [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044) -->
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/)

@@ -140,6 +140,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DDatta&theme=blue-green)](https://wakatime.com/@DDatta)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekhead-dd&" alt="geekhead-dd" /></p>
 </div>
 
 

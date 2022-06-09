@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Debarghya Datta</h1>
 <h3 align="center">A digital gypsy</h3>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+<div align ="center">
+<img src="https://user-images.githubusercontent.com/64950255/172795900-551ca063-ae97-4f07-bff2-dc840cf9c2a8.gif" width="600" height="400" />
+</div>
+
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org)
 

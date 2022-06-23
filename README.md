@@ -12,7 +12,7 @@
 
 - 🙋‍♂️ I'm a final year Computer Science and Engineering student at IEM, Kolkata.
 - 🔭 I’m currently working on [Airbnb 2.0](https://github.com/geekHead-DD/Airbnb_2.0)
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **DSA**
 - 👨‍💻 All of my projects are available at [MyWebsite](https://personal-site-dd.netlify.app/)
 - 🥅 2022 Goals: Explore Web 3.0.
 - ⚡ Fun fact: I use sarcasm as a defense mechanism

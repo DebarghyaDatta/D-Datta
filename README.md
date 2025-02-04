@@ -2,7 +2,7 @@
 <h3 align="center">A digital gypsy</h3>
 
 <div align ="center">
-<img src="[https://user-images.githubusercontent.com/64950255/172795900-551ca063-ae97-4f07-bff2-dc840cf9c2a8.gif](https://media1.tenor.com/m/9X-I0mcc_OgAAAAC/dog-funny.gif)" width="600" height="400" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYyaTBlbTZvazlyc2ZzaGx6b3RkMmU5Z2h0Y25kZ3FobHBtMDlhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yx5ns1mSPBle0/giphy.gif" width="600" height="400" />
 </div>
 
 
